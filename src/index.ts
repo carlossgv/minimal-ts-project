@@ -1,5 +1,3 @@
-const test = "test";
+import "dotenv/config";
 
-console.log("working");
-
-export default test;
+console.log("running");
