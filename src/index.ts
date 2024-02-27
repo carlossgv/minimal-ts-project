@@ -1,5 +1,5 @@
 const test = "test";
 
-console.log(test);
+console.log("working");
 
 export default test;
